@@ -80,7 +80,7 @@ Google Gemini API Key
 
 5. Run the application:
 ```bash
-   python app.py
+   streamlit run app.py  
 ```
 
 # 🧪 Notes
